@@ -1,2 +1,2 @@
 # DigiFlagGFX
-New gifs for DigiFlag
+New gifs for the beautiful DigiFlag extension for Multiviewer F1
