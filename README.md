@@ -34,7 +34,7 @@ Actual 2023 Season
 
 ![alt text](https://github.com/mkcologne/DigiFlagGFX/blob/main/gif/81-PIA.gif) 
 
-### AddiotionalStuff
+### AdditionalStuff
 Added a red flag that only blinks 5 times and stays. Less annoying.
 
 ![alt text](https://github.com/mkcologne/DigiFlagGFX/blob/main/gif/red.gif) 
