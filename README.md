@@ -33,3 +33,8 @@ Actual 2023 Season
 ![alt text](https://github.com/mkcologne/DigiFlagGFX/blob/main/gif/20-MAG.gif) ![alt text](https://github.com/mkcologne/DigiFlagGFX/blob/main/gif/23-ALB.gif) ![alt text](https://github.com/mkcologne/DigiFlagGFX/blob/main/gif/24-ZHO.gif) ![alt text](https://github.com/mkcologne/DigiFlagGFX/blob/main/gif/27-HUL.gif) ![alt text](https://github.com/mkcologne/DigiFlagGFX/blob/main/gif/31-OCO.gif) ![alt text](https://github.com/mkcologne/DigiFlagGFX/blob/main/gif/40-LAW.gif) ![alt text](https://github.com/mkcologne/DigiFlagGFX/blob/main/gif/44-HAM.gif) ![alt text](https://github.com/mkcologne/DigiFlagGFX/blob/main/gif/55-SAI.gif) ![alt text](https://github.com/mkcologne/DigiFlagGFX/blob/main/gif/63-RUS.gif) ![alt text](https://github.com/mkcologne/DigiFlagGFX/blob/main/gif/77-BOT.gif) 
 
 ![alt text](https://github.com/mkcologne/DigiFlagGFX/blob/main/gif/81-PIA.gif) 
+
+### AddiotionalStuff
+Added a red flag that only blinks 5 times and stays. Less annoying.
+
+![alt text](https://github.com/mkcologne/DigiFlagGFX/blob/main/gif/red.gif) 
